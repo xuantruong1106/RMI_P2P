@@ -1,4 +1,4 @@
-package rmihibridp2p;
+package com.mycompany.rmi_p2p;
 import java.rmi.RemoteException;
 public class ClientImp implements IClient { 
     public IClient client;
